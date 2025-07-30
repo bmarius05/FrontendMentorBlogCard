@@ -67,4 +67,4 @@ In the future I want to improve my artistic eye to be able to create amazing des
 ## Author
 
 - Frontend Mentor - [@bmarius05](https://www.frontendmentor.io/profile/bmarius05)
-- Twitter - [@Marius05](https://x.com/Marius05)
+- Twitter - [@bmarius05](https://x.com/bmarius05)
